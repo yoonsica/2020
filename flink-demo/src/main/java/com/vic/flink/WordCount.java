@@ -8,7 +8,7 @@ import org.apache.flink.util.Collector;
 
 /**
  * @Author ShengLi
- *
+ * 批处理
  */
 public class WordCount {
     public static void main(String[] args) throws Exception {

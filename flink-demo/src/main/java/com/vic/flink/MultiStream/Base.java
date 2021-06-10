@@ -17,7 +17,7 @@ import java.util.Collections;
 
 /**
  * @Classname Base
- * @Description TODO
+ * @Description 多条流处理
  * @Date 2020/12/28 下午5:04
  * @Author shengli
  */
